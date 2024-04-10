@@ -15,14 +15,14 @@ Les 3 repositories sont accessibles par l'organisation ou ici:
 - [<img src="https://github.com/todoux/.github/assets/94057745/afc62395-32e6-4acd-bb60-706c9b515a71" alt="drawing" width="20"/> Angular](https://github.com/todoux/angular-app)
 - [<img src="https://github.com/todoux/.github/assets/94057745/3ee8e42a-d247-4428-82af-af853aeb9190" alt="drawing" width="18"/> Flutter](https://github.com/todoux/flutter-app)
 
-Lien du projet [<img src="https://github.com/todoux/.github/assets/94057745/c56b79d8-e0c2-4bee-8aa1-0c5efb855ebb" alt="drawing" width="18"/> Firebase](https://console.firebase.google.com/u/1/project/toudoux-46f4b/overview).
+Lien du [<img src="https://github.com/todoux/.github/assets/94057745/c56b79d8-e0c2-4bee-8aa1-0c5efb855ebb" alt="drawing" width="18"/> Firebase](https://console.firebase.google.com/u/1/project/toudoux-46f4b/overview).
 
 
 ## 📜 Organisation
 
 Le développement, c'est fait en **agilité**. Nous avons prévu 3 **sprint** pour le développement de ce qui est attendu. 
 Les tâches de chaque sprint se retrouvent dans le [Board](https://github.com/orgs/todoux/projects/1).  
-Cela nous a permis de faire le suivi du projet et aussi de s'adapter.
+Chaque branche est reliée à une tâche. Un Pull Request est demandé pour merge dans dev pour avoir une relecture de chaque implémentation. Cela nous a permis de faire le suivi du projet et aussi de s'adapter.  
 Chaque jour de travail nous avons fait un petit :sparkles:*daily meeting*:sparkles:. Les résumés de chacun se trouvent ici. !!!TODO!!!
 
 ## 🔍 Détails des repositories
