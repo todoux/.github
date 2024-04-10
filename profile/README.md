@@ -1,6 +1,6 @@
 # 💻 Projet web
 
-## 👩🏼‍💻 Membres de l'équipe
+## 🧑‍💻 Membres de l'équipe
 - Matias Taillade
 - Rémi Mandart
 - Thomas Bonin
@@ -14,6 +14,13 @@ Les 3 repositories sont accessibles par l'organisation ou ici:
 - [<img src="https://github.com/todoux/.github/assets/94057745/b0c91bad-560d-4f43-94b4-b66af1cd7a17" alt="drawing" width="15"/> Back-end python](https://github.com/todoux/back-end)
 - [<img src="https://github.com/todoux/.github/assets/94057745/afc62395-32e6-4acd-bb60-706c9b515a71" alt="drawing" width="20"/> Angular](https://github.com/todoux/angular-app)
 - [<img src="https://github.com/todoux/.github/assets/94057745/3ee8e42a-d247-4428-82af-af853aeb9190" alt="drawing" width="18"/> Flutter](https://github.com/todoux/flutter-app)
+
+## 📜 Organisation
+
+Le développement, c'est fait en **agilité**. Nous avons prévu 3 **sprint** pour le développement de ce qui est attendu. 
+Les tâches de chaque sprint se retrouvent dans le [Board](https://github.com/orgs/todoux/projects/1).  
+Cela nous a permis de faire le suivi du projet et aussi de s'adapter.
+Chaque jour de travail nous avons fait un petit :sparkles:*daily meeting*:sparkles:. Les résumés de chacun se trouvent ici. !!!TODO!!!
 
 ## 🔍 Détails des repositories
 
