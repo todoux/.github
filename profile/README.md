@@ -36,6 +36,20 @@ Le projet a été **conteneurisé** avec **Docker**: [Dockerfile](https://github
 Nous avons aussi ajouté un [CI](https://github.com/todoux/back-end/actions/workflows/ci.yml) avec un lint. 
 La mise a jours des dépendances est automatisée par **Dependabot**.
 
+### <img src="https://github.com/todoux/.github/assets/94057745/afc62395-32e6-4acd-bb60-706c9b515a71" alt="drawing" width="20"/> Angular
+
+Cette application **Angular**  permet de gérer les todos, les task et les utilisateurs. Elle communique avec le back-end pour les données et la gestion des utilisateurs.  
+Ici c'est une application orianté web.
+
+Le projet a été **conteneurisé** avec **Docker**
+
+### <img src="https://github.com/todoux/.github/assets/94057745/3ee8e42a-d247-4428-82af-af853aeb9190" alt="drawing" width="18"/> Flutter
+
+Cette application **Flutter** permet de gérer les todos, les task et les utilisateurs. Elle communique avec le back-end pour les données et la gestion des utilisateurs.  
+Ici c'est une application orianté mobile.
+
+Le projet n'a pas été **conteneurisé** avec **Docker** par manque de temps. 
+
 # :sparkles:*daily meeting*:sparkles:
 
 Je ne touche pas au résumé et ils ont été fait sur le fil des réunions donc désolé si ce n'est pas bien structuré ou su il y a des fautes.
