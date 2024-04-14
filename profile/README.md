@@ -52,12 +52,12 @@ Le projet n'a pas été **conteneurisé** avec **Docker** par manque de temps.
 
 ## <a id="ici" />:sparkles:*Daily meeting*:sparkles:
 
-Je ne touche pas au résumé et ils ont été fait sur le fil des réunions donc désolé si ce n'est pas bien structuré ou su il y a des fautes.
-
-Je le mets dans daily meeting mais cette première section est surtout la mise en place des idées, le choix des rôles et de ce qui peut être fait dans les délais. Je sais que ce n'est pas réellement un daily mais je pense que c'est intéressant de le mettre ici.
-Au début du projet nous sommes que 2 (Rémi et Matias) et Thomas nous a rejoins plus tard.
+Je ne touche pas au résumé et ils ont été fait sur le fil des réunions donc désolé si ce n'est pas bien structuré ou si il y a des fautes.
 
 ### 📆 1er *daily meeting*
+
+*Je le mets dans daily meeting mais cette première section est surtout la mise en place des idées, le choix des rôles et de ce qui peut être fait dans les délais. Je sais que ce n'est pas réellement un daily mais je pense que c'est intéressant de le mettre ici.
+Au début du projet nous sommes que 2 (Rémi et Matias) et Thomas nous a rejoins plus tard.*
 
 Nous voulons mettre en place rapidement un midleware pour pouvoir nous simplifier la logique metier et pouvoir nous concentrer sur le front dans les projets Angular et Flutter.  
 C'est Rémi qui s'occupe de la mise en place du projet Python et qui choisit la stack (BlackSheep, architecture DDD, etc...) car c'est un spécialiste dans le domène.
