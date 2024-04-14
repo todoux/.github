@@ -23,7 +23,7 @@ Lien du [<img src="https://github.com/todoux/.github/assets/94057745/c56b79d8-e0
 Le développement, c'est fait en **agilité**. Nous avons prévu 3 **sprint** pour le développement de ce qui est attendu. 
 Les tâches de chaque sprint se retrouvent dans le [Board](https://github.com/orgs/todoux/projects/1).  
 Chaque branche est reliée à une tâche. Un Pull Request est demandé pour merge dans dev pour avoir une relecture de chaque implémentation. Cela nous a permis de faire le suivi du projet et aussi de s'adapter.  
-Chaque jour de travail nous avons fait un petit :sparkles:*daily meeting*:sparkles:. Les résumés de chacun se trouvent ici. !!!TODO!!!
+Chaque jour de travail nous avons fait un petit :sparkles:*daily meeting*:sparkles:. Les [résumés](#ici) de chacun se trouvent en bas de ce document.
 
 ## 🔍 Détails des repositories
 
@@ -50,59 +50,59 @@ Ici c'est une application orianté mobile.
 
 Le projet n'a pas été **conteneurisé** avec **Docker** par manque de temps. 
 
-# :sparkles:*daily meeting*:sparkles:
+## <a id="ici" />:sparkles:*Daily meeting*:sparkles:
 
 Je ne touche pas au résumé et ils ont été fait sur le fil des réunions donc désolé si ce n'est pas bien structuré ou su il y a des fautes.
 
 Je le mets dans daily meeting mais cette première section est surtout la mise en place des idées, le choix des rôles et de ce qui peut être fait dans les délais. Je sais que ce n'est pas réellement un daily mais je pense que c'est intéressant de le mettre ici.
 Au début du projet nous sommes que 2 (Rémi et Matias) et Thomas nous a rejoins plus tard.
 
-## 📆 1er :sparkles:*daily meeting*:sparkles:
+### 📆 1er *daily meeting*
 
 Nous voulons mettre en place rapidement un midleware pour pouvoir nous simplifier la logique metier et pouvoir nous concentrer sur le front dans les projets Angular et Flutter.  
 C'est Rémi qui s'occupe de la mise en place du projet Python et qui choisit la stack (BlackSheep, architecture DDD, etc...) car c'est un spécialiste dans le domène.
 Matias s'occupe de la mise en place du board, des issues futur et de l'écriture des daily (et oui c'est moi 🙋) etc... Puis du projet Angular.  
 Nous allons faire la connexion avec Firebase et Flutter que dans le 2eme sprint.
 
-## 📆 2eme :sparkles:*daily meeting*:sparkles:
+### 📆 2ème *daily meeting*
 Thomas est rentré dans l'équipe hier apres-midi. Nous lui avons fait un point sur le projet et les tâches à faire. Il va donc s'occuper de la partie Angular car il maitrise le framework contrairement a Matias (le nullos).
 
-### 🧑‍💻 Matias
+#### 🧑‍💻 Matias
 Hier j'ai commencé le board avec les issue des 2 premiers spints, Aujourd'hui je vais adapter les issues avec l'arrivé de Thomas. Notemment la mise en place du Firebase va revenir dans le sptint 1 et je vais m'en occuper et l'intégrer au Back. J'ai aussi start le projet Angular.
 Pas de blocage les bg
 
-### 🧑‍💻 Rémi
+#### 🧑‍💻 Rémi
 La base du projet est en place, je vais commencer à implémenter les premières routes pour les todos. Un jknkjgnk a été mis en place pour tester les requêtes. Je vais aider Matias a mettre en place Firebase cette aprèm.
 Pas de blocage
 
-### 🧑‍💻 Thomas
+#### 🧑‍💻 Thomas
 J'avance sur le Angular en préparant les templates pour les todos. Je pourrais implémenter les services que dans le 2eme sprint.
 Pas de blocage
 
-## 📆 3eme :sparkles:*daily meeting*:sparkles:
+### 📆 3ème *daily meeting*
 
-### 🧑‍💻 Matias
+#### 🧑‍💻 Matias
 J'ai fini la mise en place de Firebase et j'ai presque fini l'implementation avec l'aide de Rémi. Aujourd'hui je vais finir l'implementation actualiser des issues et je vais commencer a faire une présentation de notre travail dans le README de l'organisation pour faire un truc propre.
 Pas de blocage
 
-### 🧑‍💻 Rémi
+#### 🧑‍💻 Rémi
 J'ai fini l'implémentation des routes et j'aide Matias pour l'implementation de Firebase. Aujourd'hui je vais m'occuper de la finir les implémentation et commencer Flutter ou la mise en place des users.
 Pas de blocage
 
-### 🧑‍💻 Thomas
+#### 🧑‍💻 Thomas
 J'ai presque fini la mise en place des templates, je fais fasse a un problème avec mon environnelent angular qui ne se met pas a jour. Je vais essayer de le régler aujourd'hui.
 Pas de blocage
 
-## 📆 4eme :sparkles:*daily meeting*:sparkles:
+### 📆 4ème *daily meeting*
 
-### 🧑‍💻 Matias
+#### 🧑‍💻 Matias
 J'ai fini l'implementation de Firebase et j'ai commencé a faire la présentation du projet. J'ai regarder comment mettre en place les user et j'ai commencer a les mettre en place avec Remi. 
 Parallelement je vais pofiner présentation.
 Pas de blocage
 
-### 🧑‍💻 Rémi
+#### 🧑‍💻 Rémi
 J'ai fini l'implementation des routes et j'ai commencé a mettre en place les users avec Matias. Aujourd'hui je vais finir les users et commencer Flutter.
 Pas de blocage
 
-### 🧑‍💻 Thomas
+#### 🧑‍💻 Thomas
 J'ai fini la mise en place des templates. J'ai fini de régler mon problème d'environnement. Aujourd'hui j'implemente le back dans angular.
