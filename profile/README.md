@@ -5,7 +5,7 @@
 - Rémi Mandart
 - Thomas Bonin
 
-## 📋 Présentation du projet
+## 📋 Présentation du projet ✨**Todoux**✨
 <p align="center">
     <img src="https://github.com/todoux/.github/assets/94057745/53d862f0-448f-4a1f-affe-4f7bf3e9b3af" style="width: 200px">
 </p>
