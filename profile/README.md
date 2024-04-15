@@ -7,10 +7,10 @@
 
 ## 📋 Présentation du projet ✨**Todoux**✨
 <p align="center">
-    <img src="https://github.com/todoux/.github/assets/94057745/53d862f0-448f-4a1f-affe-4f7bf3e9b3af" style="width: 200px">
+    <img src="https://github.com/todoux/.github/assets/94057745/53d862f0-448f-4a1f-affe-4f7bf3e9b3af" style="width: 300px">
 </p>
-L'application est une To Do list multiplateforme. Les Framework utilisés sont **Angular** (web) et **Flutter** (principalement mobile).
 
+L'application est une To Do list multiplateforme. Les Framework utilisés sont **Angular** (web) et **Flutter** (principalement mobile).
 Les données et la gestion des users sont gérées par **Firebase** en passant par un **midleware** en **Python** pour ne pas dupiquer la logique metier.
 
 Les 3 repositories sont accessibles par l'organisation ou par les liens suivants:
@@ -109,3 +109,19 @@ Pas de blocage
 
 #### 🧑‍💻 Thomas
 J'ai fini la mise en place des templates. J'ai fini de régler mon problème d'environnement. Aujourd'hui j'implemente le back dans angular.
+
+### 📆 Dernier *daily meeting*
+
+#### 🧑‍💻 Rémi
+Nous avons remarqué qu'il n'est pas possible de mettre en place la connexion par un midleware avec Firebase. J'ai donc pas implémenté la fonctionnalité sur le back.  
+J'ai bien avancé sur le Flutter, malheuresement je ne pense pas que l'on puisse le finir dans les temps: Nous en avons passé énormément sur d'autre parties (parfois moins centré sur les objectifs)
+
+#### 🧑‍💻 Thomas
+J'ai presque terminé l'angular. J'ai implémenté l'authentification Firebase directement dans le projet. 
+Pas de blocage
+
+#### 🧑‍💻 Matias
+On a beaucoup dérivé sur certain point et il semble compliqué de finir le Flutter aujourd'hui. Nous aurions dû nous concentrer plus sur les objectifs de base pour cela.  
+Je vais mettre a jours la présentation des projets pour prendre en compte le fais que le back ne gere plus l'authentification sur les Framwork.
+Pas de blocage
+
