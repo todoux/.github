@@ -25,7 +25,7 @@ Lien du [<img src="https://github.com/todoux/.github/assets/94057745/c56b79d8-e0
 
 Le développement, c'est fait en **agilité**. Nous avons prévu 3 **sprint** pour le développement de ce qui est attendu. 
 Les tâches de chaque sprint se retrouvent dans le [Board](https://github.com/orgs/todoux/projects/1).  
-Chaque branche est reliée à une tâche. Un Pull Request est demandé pour merge dans dev pour avoir une relecture de chaque implémentation. Cela nous a permis de faire le suivi du projet et aussi de s'adapter.  
+Chaque branche est reliée à une tâche (exemple [ici](https://github.com/todoux/back-end/issues/11)). Un Pull Request est demandé pour merge dans dev pour avoir une relecture de chaque implémentation. Cela nous a permis de faire le suivi du projet et aussi de s'adapter.  
 Chaque jour de travail nous avons fait un petit :sparkles:*daily meeting*:sparkles:. Les [résumés](#ici) de chacun se trouvent en bas de ce document.
 
 ## 🔍 Détails des repositories
@@ -44,7 +44,7 @@ La mise a jours des dépendances est automatisée par **Dependabot**.
 Cette application **Angular**  permet de gérer les todos, les task et les utilisateurs. Elle communique avec le back-end pour les données. La gestion des utilisateurs est elle effectuée par Firebase.  
 Ici c'est une application orianté web.
 
-Le projet a été **conteneurisé** avec **Docker: [Dockerfile](https://github.com/todoux/angular-app/blob/prod/Dockerfile), [docker-compose](https://github.com/todoux/angular-app/blob/prod/docker-compose.yml)
+Le projet a été **conteneurisé** avec **Docker**: [Dockerfile](https://github.com/todoux/angular-app/blob/prod/Dockerfile), [docker-compose](https://github.com/todoux/angular-app/blob/prod/docker-compose.yml)
 
 ### <img src="https://github.com/todoux/.github/assets/94057745/3ee8e42a-d247-4428-82af-af853aeb9190" alt="drawing" width="18"/> Flutter
 
