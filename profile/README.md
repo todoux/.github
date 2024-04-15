@@ -9,11 +9,11 @@
 <p align="center">
     <img src="https://github.com/todoux/.github/assets/94057745/53d862f0-448f-4a1f-affe-4f7bf3e9b3af" style="width: 200px">
 </p>
-Création de 2 applications de To do list commune. Une tournée vers le web en **Angular** et une tournée multi plateforme (principalement mobile) avec **Flutter**.
+L'application est une To Do list multiplateforme. Les Framework utilisés sont **Angular** (web) et **Flutter** (principalement mobile).
 
 Les données et la gestion des users sont gérées par **Firebase** en passant par un **midleware** en **Python** pour ne pas dupiquer la logique metier.
 
-Les 3 repositories sont accessibles par l'organisation ou ici:
+Les 3 repositories sont accessibles par l'organisation ou par les liens suivants:
 - [<img src="https://github.com/todoux/.github/assets/94057745/b0c91bad-560d-4f43-94b4-b66af1cd7a17" alt="drawing" width="15"/> Back-end Python](https://github.com/todoux/back-end)
 - [<img src="https://github.com/todoux/.github/assets/94057745/afc62395-32e6-4acd-bb60-706c9b515a71" alt="drawing" width="20"/> Angular](https://github.com/todoux/angular-app)
 - [<img src="https://github.com/todoux/.github/assets/94057745/3ee8e42a-d247-4428-82af-af853aeb9190" alt="drawing" width="18"/> Flutter](https://github.com/todoux/flutter-app)
