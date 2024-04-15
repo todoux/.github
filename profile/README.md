@@ -11,7 +11,7 @@
 </p>
 
 L'application est une To Do list multiplateforme. Les Framework utilisés sont **Angular** (web) et **Flutter** (principalement mobile).
-Les données et la gestion des users sont gérées par **Firebase** en passant par un **midleware** en **Python** pour ne pas dupiquer la logique metier.
+Les données et la gestion des users sont gérées par **Firebase** en passant par un **midleware** en **Python** pour ne pas dupiquer la logique metier sur les données.
 
 Les 3 repositories sont accessibles par l'organisation ou par les liens suivants:
 - [<img src="https://github.com/todoux/.github/assets/94057745/b0c91bad-560d-4f43-94b4-b66af1cd7a17" alt="drawing" width="15"/> Back-end Python](https://github.com/todoux/back-end)
@@ -33,9 +33,9 @@ Chaque jour de travail nous avons fait un petit :sparkles:*daily meeting*:sparkl
 ### <img src="https://github.com/todoux/.github/assets/94057745/b0c91bad-560d-4f43-94b4-b66af1cd7a17" alt="drawing" width="15"/> Back-end Python
 
 Cette application est un middleware en **Python** qui utilise le framework **BlackSheep** avec une architecture en **DDD** (Domain Driven Design). Elle fait les liens entre **Firebase** (qui nous permet le stockage des données/users) et nos **applications**.  
-Elle permet de faire toutes les **implémentations** métier: ajout, modification et suppression des todo, task... Mais aussi la gestion des users. Grâce à cela nous ne dupliquons pas cette logique sur Angular et Flutter (gain de temps et limitation d'erreurs).
+Elle permet de faire toutes les **implémentations** métier: ajout, modification et suppression des todo, task... Grâce à cela nous ne dupliquons pas cette logique sur Angular et Flutter (gain de temps et limitation d'erreurs).
 
-Le projet a été **conteneurisé** avec **Docker**: [Dockerfile](https://github.com/todoux/back-end/blob/prod/Dockerfile) et [Makefile](https://github.com/todoux/back-end/blob/prod/Makefile). 
+Le projet a été **conteneurisé** avec **Docker**: [Dockerfile](https://github.com/todoux/back-end/blob/prod/Dockerfile), [docker-compose](https://github.com/todoux/back-end/blob/prod/docker-compose.yml) et [Makefile](https://github.com/todoux/back-end/blob/prod/Makefile). 
 Nous avons aussi ajouté un [CI](https://github.com/todoux/back-end/actions/workflows/ci.yml) avec un lint. 
 La mise a jours des dépendances est automatisée par **Dependabot**.
 
@@ -44,7 +44,7 @@ La mise a jours des dépendances est automatisée par **Dependabot**.
 Cette application **Angular**  permet de gérer les todos, les task et les utilisateurs. Elle communique avec le back-end pour les données. La gestion des utilisateurs est elle effectuée par Firebase.  
 Ici c'est une application orianté web.
 
-Le projet a été **conteneurisé** avec **Docker**
+Le projet a été **conteneurisé** avec **Docker: [Dockerfile](https://github.com/todoux/angular-app/blob/prod/Dockerfile), [docker-compose](https://github.com/todoux/angular-app/blob/prod/docker-compose.yml)
 
 ### <img src="https://github.com/todoux/.github/assets/94057745/3ee8e42a-d247-4428-82af-af853aeb9190" alt="drawing" width="18"/> Flutter
 
